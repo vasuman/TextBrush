@@ -2,5 +2,5 @@
 
 Draw lines with text
 
-https://github.com/vasuman/TextBrush/assets/1475410/f12b7326-d634-4aaa-8b33-108d6a11df52
+https://github.com/vasuman/TextBrush/assets/1475410/89105b19-2ea1-423e-8596-07214e164149
 
